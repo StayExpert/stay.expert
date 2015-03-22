@@ -1,0 +1,13 @@
+{
+  "name": "stay.expert",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:StayExpert/stay.expert.git"
+  },
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StayExpert/stay.expert/issues"
+  },
+  "homepage": "https://github.com/StayExpert/stay.expert"
+}
